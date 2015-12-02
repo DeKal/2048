@@ -1,0 +1,13 @@
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\bin\Release\2048.exe.config
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\bin\Release\2048.exe
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\bin\Release\2048.pdb
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Release\WindowsFormsApplication1.game2048.resources
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Release\2048.csproj.GenerateResource.Cache
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Release\2048.exe
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Release\2048.pdb
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Release\WindowsFormsApplication1.Menu.resources
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Release\WindowsFormsApplication1.Leading_Board.resources
+C:\Users\DLK\documents\visual studio 2013\Projects\2048\2048\obj\Release\WindowsFormsApplication1.Continue.resources
+C:\Users\DLK\documents\visual studio 2013\Projects\2048\2048\obj\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\DLK\documents\visual studio 2013\Projects\2048\2048\obj\Release\2048.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\dlk\documents\visual studio 2013\Projects\2048\2048\bin\Debug\2048.exe.config
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\bin\Debug\2048.exe
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\bin\Debug\2048.pdb
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Debug\WindowsFormsApplication1.game2048.resources
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Debug\2048.exe
+C:\Users\DLK\Documents\Visual Studio 2013\Projects\2048\2048\obj\Debug\2048.pdb
